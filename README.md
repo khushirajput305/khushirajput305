@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushirajput305&show_icons=true&locale=en&layout=compact" alt="khushirajput305" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushirajput305&" alt="khushirajput305" /></p>
